@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/navNewSeries"
+            android:icon="@drawable/ic_menu_newsfeed"
+            android:title="New Series" />
+        <item
+            android:id="@+id/navFind"
+            android:icon="@drawable/ic_menu_search"
+            android:title="Find" />
+        <item
+            android:id="@+id/navNews"
+            android:title="News" />
+
+    </group>
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/navLogin"
+            android:title="Login"
+            android:icon="@drawable/ic_login_24dp"
+            />
+    </group>
+
+</menu>

@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "268673025051",
+    "firebase_url": "https://lostfilm-76977.firebaseio.com",
+    "project_id": "lostfilm-76977",
+    "storage_bucket": "lostfilm-76977.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268673025051:android:3c2f18b65eacf90c",
+        "android_client_info": {
+          "package_name": "com.kegarlv.lostfilm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268673025051-s65bsmf4euca1e02bdmlsbsrpgdrd8gr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [{ "current_key": "" }],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
