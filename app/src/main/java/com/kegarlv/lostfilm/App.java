@@ -3,8 +3,6 @@ package com.kegarlv.lostfilm;
 import android.app.Application;
 import android.content.Context;
 
-import com.google.firebase.database.FirebaseDatabase;
-
 /**
  * Created by ivan on 04.02.17.
  */
@@ -12,7 +10,7 @@ import com.google.firebase.database.FirebaseDatabase;
 public class App extends Application {
     private static App instance;
 
-    public static String TAG = "myTag";
+    public static String TAG = "App tag";
     public static App getInstance(){
         return instance;
     }
